@@ -1,0 +1,1 @@
+Ising Model in RUST
